@@ -1,0 +1,7 @@
+Quizás ya sepa que después del lanzamiento de SFD, apareció una nueva forma de instalar paquetes de texturas. Para instalar este paquete, copie el contenido del archivo a:
+
+C: \ Usuarios \ [Usuario] \ Documentos \ Superfighters Deluxe \ Content \ Data.
+
+O dicho en otras palabras, en equipo\documentos \SuperfightersDeluxe \content \Data\images\weapons 
+
+reemplazas los formatos PNG y si la carpeta no esta, pues la creas y pegas ahi el pack de texturas con su correspondiente categoria
